@@ -25,23 +25,31 @@ Here are some ideas to get you started:
 
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
-- 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend`
+- I'm a game developer using Unity. I have knowledge of C#, OOP and design patterns.
+- I completed the Ampli course at an advanced level (14 months). In this course we practiced a lot (created runners, strategies).
+- 📫 How to reach me: [Email](sashaludanov277@gmail.com)
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
+## My Projects:
+- Pet Project: "Magic Battle"
+
+- Key achievements: implemented the StateMachine pattern, implemented a dialog system, created attractive graphics, implemented Abilities using SO, set up collisions in particles, created UI HealthBars, saved music settings using PlayerPrefs
+- Technologies used: Unity, C#, PostProcessing, ScriptableObject, Particle Collision, UI, PlayerPrefs
+
+- Project: https://github.com/TrapTap277/MagicBattle
+
+- Team project (10 people): "Ukrainian Traditions"
+
+- Key achievements: created a level (Easter), developed a memory game, configured camera transitions using Cinemachine, implemented hare movement using NavMesh
+Technologies used: Unity, C#, Cinemachine, NavMesh
+- I also presented this project as my final work.
+- Project: https://github.com/BelladonDeveloper/TraditionUA
+
+- You can write to me on Telegram: https://t.me/Alex_Ludanov
+
+
+- OtherSkills: Trello, English - B1, Ukrainian - Native
 
 ## Languages and Tools:
 <div align="left">
