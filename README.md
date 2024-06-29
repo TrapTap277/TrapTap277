@@ -1,5 +1,5 @@
 <!--
-**taozhi8833998/taozhi8833998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tTrapTap277/TrapTap277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Alex Ludanov 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TrapTap277.TrapTap277&left_color=royalblue&right_color=black"  />
 <h3 align="center">Unity Game Developer from Ukraine </h3>
 
 ❤️ I love Unity
