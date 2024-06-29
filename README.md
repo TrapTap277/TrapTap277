@@ -66,6 +66,7 @@ Technologies used: Unity, C#, Cinemachine, NavMesh
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/TrapTap277/TrapTap277/output/github-contribution-grid-snake-dark.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/TrapTap277/TrapTap277/output/github-contribution-grid-snake.svg" />
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
