@@ -65,7 +65,7 @@ Technologies used: Unity, C#, Cinemachine, NavMesh
 [![Trophies](https://github-profile-trophy.vercel.app/?username=TrapTap277&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/TrapTap277/TrapTap277/output/github-contribution-grid-snake-dark.svg)
+
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/TrapTap277/TrapTap277/output/github-contribution-grid-snake.svg" />
 
 ##
