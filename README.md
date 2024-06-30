@@ -16,14 +16,14 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My Projects:
-- Pet Project: "Magic Battle"
+ ## Pet Project: "Magic Battle"
 
 - Key achievements: implemented the StateMachine pattern, implemented a dialog system, created attractive graphics, implemented Abilities using SO, set up collisions in particles, created UI HealthBars, saved music settings using PlayerPrefs
 - Technologies used: Unity, C#, PostProcessing, ScriptableObject, Particle Collision, UI, PlayerPrefs
 
 - Project: https://github.com/TrapTap277/MagicBattle
 
-- Team project (10 people): "Ukrainian Traditions"
+## Team project (10 people): "Ukrainian Traditions"
 
 - Key achievements: created a level (Easter), developed a memory game, configured camera transitions using Cinemachine, implemented hare movement using NavMesh
 Technologies used: Unity, C#, Cinemachine, NavMesh
