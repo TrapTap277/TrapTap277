@@ -15,7 +15,6 @@
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My Projects:
  ## Pet Project: "Magic Battle"
 
 - Key achievements: implemented the StateMachine pattern, implemented a dialog system, created attractive graphics, implemented Abilities using SO, set up collisions in particles, created UI HealthBars, saved music settings using PlayerPrefs
