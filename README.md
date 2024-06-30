@@ -28,7 +28,7 @@
 - Key achievements: created a level (Easter), developed a memory game, configured camera transitions using Cinemachine, implemented hare movement using NavMesh
 Technologies used: Unity, C#, Cinemachine, NavMesh
 - I also presented this project as my final work.
-- Project: [https://github.com/BelladonDeveloper/TraditionUA](https://github.com/TrapTap277/TraditionUA)
+- Project: https://github.com/TrapTap277/TraditionUA
 
 - You can write to me on Telegram: https://t.me/Alex_Ludanov
 
