@@ -11,7 +11,7 @@
 ## About me:
 - I'm a game developer using Unity. I have knowledge of C#, OOP and design patterns.
 - I completed the Ampli course at an advanced level (14 months). In this course we practiced a lot (created runners, strategies).
-- 📫 How to reach me: [Email](mailto:sashaludanov277@gmail.com)
+- 📫 How to reach me: sway8318@gmail.com
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
